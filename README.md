@@ -1,2 +1,4 @@
 # Important-Project
-First comparative cross city study in the field of traffic accident prediction in UK using multi-source data. Applied spatio-temporal analytics, network modeling, and machine learning techniques.
+“This project was originally created as part of my coursework at the University of Leeds.
+The content here reflects my own original work.
+Assessment briefs and university-owned materials are not included.”
